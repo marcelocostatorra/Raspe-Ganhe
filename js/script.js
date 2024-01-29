@@ -129,6 +129,9 @@ $(document).ready(function () {
         $(this).next().next(".custom-control-label").removeClass("not-fill");
     });
 
+    // $(".email").emailautocomplete({
+    //     domains: ["example.com"] //add your own domains
+    // });
 
     $(".bt-step").click(function() {
         var cpfValue = $('.stap .cpf').val();

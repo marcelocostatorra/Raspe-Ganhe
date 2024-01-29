@@ -1192,6 +1192,10 @@ border: none;
 .passo-passo p i.text-blue{
     background:#ffffff;
 }
+.eac-sugg{
+    color: rgba(255, 255, 255, 0.25);
+    top: 2px!important;
+}
 /* -----------TABLET----------- */
 @media (min-width: 992px){
 
